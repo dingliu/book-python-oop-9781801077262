@@ -1,3 +1,8 @@
+# An example of Composite design pattern on
+# folders and files.
+#
+# WIP
+#######################################
 import abc
 
 
